@@ -14,98 +14,105 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedHamdan&style=flat&color=orange&label=PROFILE+VIEWS)
 
+<br><br>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmed-hemdan-">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hemdanahmed105@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 <hr>
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Ahmed Hamdan**, a Software Testing Engineer interested in building reliable and high-quality software.
+Hi, I'm **Ahmed Hamdan**, a Software Testing Engineer and QA enthusiast.
 
-I focus on finding bugs, designing effective test cases, and thinking from the user's perspective to improve software quality and user experience.
+I am interested in Software Quality Assurance and Software Testing, with a focus on finding bugs, creating effective test cases, and improving software quality and user experience.
 
-- 🔍 Interested in **Software Testing & Quality Assurance**
-- 🧪 Experienced in creating and executing **Test Cases**
-- 🐞 Interested in **Bug Reporting & Defect Tracking**
+- 🧪 Interested in **Software Testing & Quality Assurance**
+- 📝 Creating and executing **Test Cases**
+- 🐞 Finding and reporting **Bugs**
+- 🔍 Performing **Functional & Regression Testing**
 - 🔗 Learning and practicing **API Testing**
-- 🤖 Learning **Automation Testing with Selenium & Java**
-- 🗄️ Working with **SQL & Database Testing**
-- 🌱 Continuously improving my testing and programming skills
-- 💼 Goal: Build a strong career as a **Software Testing Engineer**
+- 🤖 Learning **Automation Testing**
+- 💻 Programming with **Java, C++, and Python**
+- 🚀 Continuously improving my testing and programming skills
 
 <hr>
 
-## 🧪 Software Testing Skills
+## 🧪 Software Testing & QA Skills
 
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-555555?style=flat&logo=testinglibrary&logoColor=white)
-![Test Cases](https://img.shields.io/badge/Test%20Cases-007ACC?style=flat)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-555555?style=flat)
+![QA](https://img.shields.io/badge/QA-Quality%20Assurance-007ACC?style=flat)
+![Test Cases](https://img.shields.io/badge/Test%20Cases-4CAF50?style=flat)
 ![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-D73A49?style=flat)
-![Functional Testing](https://img.shields.io/badge/Functional%20Testing-6DB33F?style=flat)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-2196F3?style=flat)
 ![Regression Testing](https://img.shields.io/badge/Regression%20Testing-FF9800?style=flat)
 ![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-7952B3?style=flat)
 ![Integration Testing](https://img.shields.io/badge/Integration%20Testing-009688?style=flat)
-![System Testing](https://img.shields.io/badge/System%20Testing-2196F3?style=flat)
+![System Testing](https://img.shields.io/badge/System%20Testing-673AB7?style=flat)
 ![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white)
-![Database Testing](https://img.shields.io/badge/Database%20Testing-336791?style=flat)
-
-<br>
-
-### Testing Concepts
-
-- Software Testing Life Cycle (STLC)
-- Software Development Life Cycle (SDLC)
-- Verification & Validation
-- Static & Dynamic Testing
-- Functional Testing
-- Regression Testing
-- Smoke Testing
-- Integration Testing
-- System Testing
-- Black Box Testing
-- Test Case Design
-- Bug Life Cycle
-- Defect Reporting
+![Verification](https://img.shields.io/badge/Verification-607D8B?style=flat)
+![Validation](https://img.shields.io/badge/Validation-009688?style=flat)
+![Static Testing](https://img.shields.io/badge/Static%20Testing-795548?style=flat)
+![Dynamic Testing](https://img.shields.io/badge/Dynamic%20Testing-3F51B5?style=flat)
 
 <hr>
 
-## 🛠️ Tools & Technologies
+## 💻 Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+<hr>
+
+## 🛠️ Testing Tools & Technologies
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 <hr>
 
-## 🤖 Automation Testing
+## 📚 Testing Knowledge
 
 ```java
 public class SoftwareTester {
 
     String role = "Software Testing Engineer";
 
-    String[] skills = {
+    String[] testingSkills = {
         "Manual Testing",
         "Test Case Design",
         "Bug Reporting",
+        "Functional Testing",
+        "Regression Testing",
+        "Smoke Testing",
+        "Integration Testing",
+        "System Testing",
         "API Testing",
-        "Database Testing",
-        "Automation Testing"
+        "Verification & Validation"
     };
 
     String[] tools = {
-        "Java",
-        "Selenium",
         "Postman",
+        "Selenium",
         "Jira",
-        "SQL",
-        "Git & GitHub"
+        "Git",
+        "GitHub"
     };
 
     public void testSoftware() {
