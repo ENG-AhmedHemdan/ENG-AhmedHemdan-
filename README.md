@@ -4,15 +4,11 @@
 
 <h3>Software Testing Engineer | QA Engineer</h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%"/>
-
-<br><br>
-
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedHamdan&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedHemdan&style=flat&color=orange&label=PROFILE+VIEWS)
 
 <br><br>
 
