@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Ahmed Hamdan</h1>
+<h1>Hi 👋, I'm Ahmed Hemdan</h1>
 
 <h3>Software Testing Engineer | QA Engineer</h3>
 
@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Ahmed Hamdan**, a Software Testing Engineer and QA enthusiast.
+Hi, I'm **Ahmed Hemdan**, a Software Testing Engineer and QA enthusiast.
 
 I am interested in Software Quality Assurance and Software Testing, with a focus on finding bugs, creating effective test cases, and improving software quality and user experience.
 
